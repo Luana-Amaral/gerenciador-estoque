@@ -20,6 +20,28 @@ Ao iniciar o programa, aparece um menu com 7 opções:
 
 ---
 
+## 📸 Demonstração
+
+### Cadastro de produtos
+
+<img width="1313" height="635" alt="Captura de tela 2026-10-08 080113" src="https://github.com/user-attachments/assets/14b8bcc0-0775-457b-b017-31d1831ef5b6" />
+
+Demonstra o cadastro de um novo produto no estoque.
+
+### Exibição do estoque
+
+<img width="1315" height="636" alt="Captura de tela 2026-10-08 081919" src="https://github.com/user-attachments/assets/7d59beb6-7ac6-4f80-b50a-c27b6d414035" />
+
+Apresenta os produtos cadastrados, suas quantidades, preços e valores totais.
+
+### Atualização do estoque
+
+<img width="1316" height="638" alt="Captura de tela 2026-10-08 083526" src="https://github.com/user-attachments/assets/4c9b4e6f-3c88-4fb8-a406-1b235896d10f" />
+
+Demonstra a validação de entrada e a atualização da quantidade de um produto.
+
+---
+
 ## 🧠 Como o programa funciona
 
 ### Dados
