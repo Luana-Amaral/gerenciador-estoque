@@ -22,6 +22,8 @@ Ao iniciar o programa, aparece um menu com 7 opções:
 
 ## 📸 Demonstração
 
+Abaixo estão algumas telas do sistema em funcionamento:
+
 ### Cadastro de produtos
 
 <img width="1313" height="635" alt="Captura de tela 2026-10-08 080113" src="https://github.com/user-attachments/assets/14b8bcc0-0775-457b-b017-31d1831ef5b6" />
